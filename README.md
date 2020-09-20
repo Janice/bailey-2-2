@@ -1,2 +1,5 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3175236&assignment_repo_type=AssignmentRepo)
 # bailey-2-2
-How Many Days Have You Been Alive?  Worked Example from Big Java: Early Objects, Enhanced eText, 7th Edition by Cay S. Horstmann. 
+Unit 2 Worked Example
+How Many Days Have You Been Alive? 
+from Big Java: Early Objects, Enhanced eText by Cay S. Horstmann
